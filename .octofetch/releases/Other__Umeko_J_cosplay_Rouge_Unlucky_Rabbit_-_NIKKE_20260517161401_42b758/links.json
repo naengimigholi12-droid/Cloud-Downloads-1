@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1810",
+  "folder": "Other__Umeko_J_cosplay_Rouge_Unlucky_Rabbit_-_NIKKE_20260517161401_42b758",
+  "base_name": "Other__Umeko_J_cosplay_Rouge_Unlucky_Rabbit_-_NIKKE_20260517161401_42b758.rar",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/naengimigholi12-droid/Cloud-Downloads-1/releases/tag/co-releases-v1-1810",
+  "files": [
+    {
+      "name": "Other__Umeko_J_cosplay_Rouge_Unlucky_Rabbit_-_NIKKE_20260517161401_42b758.rar",
+      "url": "https://github.com/naengimigholi12-droid/Cloud-Downloads-1/releases/download/co-releases-v1-1810/Other__Umeko_J_cosplay_Rouge_Unlucky_Rabbit_-_NIKKE_20260517161401_42b758.rar",
+      "api_url": "https://api.github.com/repos/naengimigholi12-droid/Cloud-Downloads-1/releases/assets/422594464",
+      "id": 422594464,
+      "size": 1654390814,
+      "download_count": 0
+    }
+  ]
+}
